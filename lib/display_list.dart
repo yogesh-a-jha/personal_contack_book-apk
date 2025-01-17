@@ -34,7 +34,7 @@ class _HomeState extends State<Home> {
   @override
   void initState() {
     super.initState();
-    filteredPeoples = peoples; // Initially show all contacts
+    filteredPeoples = peoples; // Initially show all contactsss
   }
 
   void addContact(People people) {
