@@ -19,7 +19,7 @@ class _HomeState extends State<Home> {
 
   List<People> peoples = [
      People(name: 'Yogesh Jha', no: "125184357", email: "yogesh@example.com", address: "123 Main St, City, Country", photo: "https://via.placeholder.com/150/0000FF/808080?Text=John+Doe"),
-    People(name: 'Vevek Chaudhary', no: "56113791323", email: "vivek@example.com", address: "123 Main St, City, Country", photo: "https://via.placeholder.com/150/0000FF/808080?Text=John+Doe"),
+    People(name: 'Vivek Chaudhary', no: "56113791323", email: "vivek@example.com", address: "123 Main St, City, Country", photo: "https://via.placeholder.com/150/0000FF/808080?Text=John+Doe"),
     People(name: 'John Doe', no: "1234567890", email: "johndoe1@example.com", address: "123 Main St, City, Country", photo: "https://via.placeholder.com/150/0000FF/808080?Text=John+Doe"),
     People(name: 'Jane Smith', no: "0987654321", email: "janesmith2@example.com", address: "456 Oak St, City, Country", photo: "https://via.placeholder.com/150/FF0000/FFFFFF?Text=Jane+Smith"),
     People(name: 'Alice Brown', no: "1122334455", email: "alicebrown3@example.com", address: "789 Pine St, City, Country", photo: "https://via.placeholder.com/150/00FF00/FFFFFF?Text=Alice+Brown"),
